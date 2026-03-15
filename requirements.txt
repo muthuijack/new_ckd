@@ -1,20 +1,9 @@
-# Web Framework
 streamlit
-
-# Data Manipulation & Math
 pandas
 numpy
-
-# Machine Learning & Scaling
 scikit-learn
 joblib
-
-# Deep Learning (TensorFlow)
-tensorflow
-
-# Database Connectivity
+tensorflow==2.17.0
 mysql-connector-python
-
-# Visualization (For the line graph)
 matplotlib
 seaborn
