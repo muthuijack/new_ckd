@@ -1,0 +1,20 @@
+# Web Framework
+streamlit
+
+# Data Manipulation & Math
+pandas
+numpy
+
+# Machine Learning & Scaling
+scikit-learn
+joblib
+
+# Deep Learning (TensorFlow)
+tensorflow
+
+# Database Connectivity
+mysql-connector-python
+
+# Visualization (For the line graph)
+matplotlib
+seaborn
